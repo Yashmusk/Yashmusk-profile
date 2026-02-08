@@ -73,8 +73,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yash-agarwal-44108020b/)
-- 🧠 LeetCode: [https://leetcode.com/your-leetcode](https://leetcode.com/u/Yashcoder24/)
+- 💼 LinkedIn:(https://www.linkedin.com/in/yash-agarwal-44108020b/)
+- 🧠 LeetCode: (https://leetcode.com/u/Yashcoder24/)
 - 📧 Email: agarwalyash541@gmail.com
 
 ---
