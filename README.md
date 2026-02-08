@@ -46,8 +46,8 @@
 - Authentication & user flows  
 - Clean UI & structured routing  
 
-🔗 GitHub: https://github.com/Yashmusk/healthcare-app
-
+🔗 GitHub: [https://github.com/Yashmusk/healthcare-app
+](https://github.com/Yashmusk/HEALTH-TRACKER)
 ---
 
 ## 📊 GitHub Stats
@@ -73,9 +73,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🧠 LeetCode: https://leetcode.com/your-leetcode
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yash-agarwal-44108020b/)
+- 🧠 LeetCode: [https://leetcode.com/your-leetcode](https://leetcode.com/u/Yashcoder24/)
+- 📧 Email: agarwalyash541@gmail.com
 
 ---
 
